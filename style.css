@@ -1,37 +1,33 @@
 body{
-    font-family: 'Pacifico', cursive;
-    background-color: #a8a3a2;
+    background-color:#e7e7db;
+    font-family:cursive;
 }
-
 .header_div{
-    background: rgb(97, 96, 96);
+    background-color:rgb(150, 162, 165);
     color: white;
 }
-
 .header_div p{
-    font-family: 'Roboto', sans-serif;
-    color: white;
+    font-family: cursive;
+    color: rgb(255, 253, 253);
     letter-spacing: 2px;
     font-size: 12px;
-    font-weight: bold;
+    font-weight: bolder;
 }
-
 .main_div button{
-    font-family: 'Roboto', sans-serif;
+    font-family: cursive;
     margin-top: 30px;
     width: 130px;
     font-weight: bolder;
     letter-spacing: 3px;
 }
-
 .copy_right_footer{
     position: fixed;
-    color: black;
+    color: rgb(99, 99, 99);
     bottom: 0;
     width: 100%;
     font-size: 18px;
-    background-color: #b5b9b4;
+    background-color:whitesmoke;
     line-height: 3;
     text-align: center;
-    text-shadow: 5px 5px 5px gray;
+    text-shadow: 5px 5px 5px grey;
 }
